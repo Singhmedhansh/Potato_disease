@@ -6,7 +6,7 @@ This project combines computer vision, explainable AI, and geospatial weather co
 
 ## Academic Context
 
-This work is developed as part of the **B.Tech AI/ML curriculum at RV College of Engineering (RVCE)** for EL (Engineering Liaison), Semester 2.
+This work is developed as part of the **B.Tech AI/ML curriculum at RV College of Engineering (RVCE)** for EL (Experiential Learning), Semester 2.
 
 ## Why This Matters
 
